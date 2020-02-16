@@ -5,4 +5,5 @@ The dataset I used in this notebook was very small, imbalanced and noisy. Howeve
 ![](traing_progress.png)
 ### Inferences
 Image order: [inputImage groundTruth preditction]
+
 ![](sample.png)
